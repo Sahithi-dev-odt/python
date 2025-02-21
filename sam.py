@@ -5,3 +5,4 @@ import random
 
 print(random.randint(0,9))
 # a new processSS need
+print("hii")
